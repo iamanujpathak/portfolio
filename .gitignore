@@ -1,0 +1,15 @@
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Local-only drafts
+*.local.md
+
+# Working docs — contain rate/negotiation strategy; never publish
+profiles/
+todo.md
